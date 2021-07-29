@@ -1,0 +1,9 @@
+h1,h2,h2+h3 {
+    text-align: center;
+}
+
+.thumbnail {background-color: #eee;}
+
+body {margin-top: 33px;}
+
+.thumbnail .caption {background-color: #ddd;}
